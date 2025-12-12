@@ -70,3 +70,11 @@ Hover effects
 Modern typography and color theme
 
 Custom card designs for books & reviews
+
+💡 Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript
